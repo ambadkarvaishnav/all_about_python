@@ -86,8 +86,8 @@ print(age)
 ### ✅ Rule 1: Python is Case-Sensitive
 
 ```python
-name = "Krish"
-Name = "Nick"
+name = "Vaish"
+Name = "Rao"
 
 print(name)
 print(Name)
@@ -95,8 +95,8 @@ print(Name)
 
 **📌 Output:**
 ```
-Krish
-Nick
+Vaish
+Rao
 ```
 
 ✔ `name` and `Name` are different variables
@@ -294,23 +294,9 @@ NameError: name 'b' is not defined
 
 ---
 
-## 📚 Additional Resources
-
-- [Official Python Documentation](https://docs.python.org/3/)
-- [Python for Data Analysis](https://wesmckinney.com/book/)
-- [Real Python Tutorials](https://realpython.com/)
-
----
-
 ## 🤝 Contributing
 
 Feel free to contribute to this guide by submitting pull requests or opening issues for improvements.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
