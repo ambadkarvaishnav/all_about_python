@@ -151,26 +151,6 @@ User Feedback:
 - Not happy with the service
 ```
 
-## Requirements
-
-- Python 3.x
-- Jupyter Notebook or JupyterLab
-
-## Usage
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/python-lists-examples.git
-cd python-lists-examples
-```
-
-2. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
-
-3. Open the notebook file and run the cells to see the examples in action.
-
 ## Learning Outcomes
 
 After working through these examples, you'll be able to:
@@ -180,10 +160,4 @@ After working through these examples, you'll be able to:
 - Apply list operations to solve practical problems
 - Understand when to use lists in your programs
 
-## Contributing
 
-Feel free to fork this repository and add your own examples! Pull requests are welcome.
-
-## License
-
-This project is open source and available under the MIT License.
